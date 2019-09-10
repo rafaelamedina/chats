@@ -93,6 +93,68 @@ conversation = [
     
 ]
 
+conversation = [
+    'vermelho',
+    'Minha cor favorita é preto~',
+   
+]
+
+conversation = [
+    'verde',
+    'Minha cor favorita é preto~',
+   
+]
+
+conversation = [
+    'azul',
+    'Minha cor favorita é preto~',
+   
+]
+conversation = [
+    'marrom',
+    'Minha cor favorita é preto~',
+   
+]
+conversation = [
+    'rosa',
+    'Minha cor favorita é preto~',
+   
+]
+
+conversation = [
+    'laranja',
+    'Minha cor favorita é preto~',
+   
+]
+   
+conversation = [
+    'branco',
+    'Minha cor favorita é preto~',
+   
+]
+
+conversation = [
+    'preto',
+    'Minha cor favorita também é preto~!',
+   
+]
+
+conversation = [
+    'bom',
+    'fico feliz em ouvir isso',
+   
+]
+conversation = [
+    'legal',
+    'Que bom!',
+   
+]
+conversation = [
+    'chato',
+    'Oh, mas por que?',
+   
+]
+
 
 
    
