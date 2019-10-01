@@ -14,7 +14,7 @@ storage_adapter='chatterbot.storage.SQLStorageAdapter',
     logic_adapters=[
         {
             'import_path': 'chatterbot.logic.BestMatch',
-            'default_response': 'Obrigado por ensinar algo novo!',
+            'default_response': 'Hmmm... depois te respondo!',
             'maximum_similarity_threshold': 0.90
         }
     ]
