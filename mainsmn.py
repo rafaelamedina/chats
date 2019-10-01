@@ -20,7 +20,7 @@ storage_adapter='chatterbot.storage.SQLStorageAdapter',
     ]
 )
 
-"""Treinador do bot, está comentado pois sua utilidade é apenas o treinamento de novas palavras para o bot. No exemplo de conversação, é um início de diálogo"""
+#Treinador do bot, está comentado pois sua utilidade é apenas o treinamento de novas palavras para o bot. No exemplo de conversação, é um início de diálogo
 """conversation = [
     
 ]
